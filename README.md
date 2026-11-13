@@ -30,7 +30,6 @@ Celem zadania było sprawdzenie możliwości wykorzystania syntetycznego głosu 
 
 Wszystkie trzy osoby pozytywnie oceniły naturalność i wiarygodność nagrania dotyczącego KR001. Osoby znające oryginalny głos wskazały na podobieństwo syntetycznej wypowiedzi do głosu Emilii.
 
-Ocena miała charakter jakościowy i nie była testem ślepym. Nie przeprowadzono interaktywnej rozmowy telefonicznej ani próby uzyskania nieautoryzowanego dostępu do systemu.
 
 ## Dalsze prace
 
